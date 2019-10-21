@@ -1,7 +1,6 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-<<<<<<< Updated upstream
-I'm a lawyer passionate about coding. 
-=======
-I'm Felipe, from Santa Catarina/Brazil, currently a lawyer. Testing conflict...
->>>>>>> Stashed changes
+I'm Felipe, from Santa Catarina/Brazil, currently a lawyer passionate about coding. My only previous experience in the IT area was an online course I took on Python Programming.
+While working for some startups, I started to get interested in the technology area. My goal in Ironhack is to learn and get a job in the data field. 
+My future goal is to work with AI, and help develop inteligent programs.
+
